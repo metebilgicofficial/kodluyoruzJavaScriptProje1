@@ -1,0 +1,2 @@
+# kodluyoruzJavaScriptProje1
+ JS 
