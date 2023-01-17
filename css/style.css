@@ -1,5 +1,7 @@
 body {
-  background-color: bisque;
+  background-image: url("https://app.patika.dev/staticFiles/newPatikaLogo.svg");
+  background-repeat: no-repeat;
+  background-position:top;
 }
 
 .clock {
