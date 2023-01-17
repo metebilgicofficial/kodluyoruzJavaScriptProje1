@@ -1,36 +1,46 @@
 body {
-  background: black;
+  background-image: url("https://app.patika.dev/staticFiles/newPatikaLogo.svg");
+  background-repeat: no-repeat;
+  background-position:top;
+  background-size:inherit;
+  
+
+  
 }
 
 .clock {
   position: relative;
   text-align: center;
-  color: #e98208;
-  font-size: 60px;
+  color: #ff3c00;
+  font-size: 150px;
   font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-  letter-spacing: 7px;
+  letter-spacing: 20px;
 }
 
 .text1 {
   position: relative;
   text-align: center;
-  color: #e98208;
-  font-size: 50px;
+  color: #0c08e9;
+  font-size: 40px;
   font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-  letter-spacing: 7px;
+  letter-spacing: 20px;
 }
 
 .text2 {
   position: relative;
   text-align: center;
-  color: #e98208;
-  font-size: 40px;
+  color: #3108e9;
+  font-size: 20px;
   font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-  letter-spacing: 7px;
-  margin-right: 100px;
-  margin-left: 100px;
+  letter-spacing: 5px;
+  margin-right: 50px;
+  margin-left: 50px;
 }
-
+.marginn{
+  margin-top: 200px;
+  padding-top: 10px;
+  background-color: rgb(51, 6, 45);
+}
  img {
      margin-top: 120px;
      width: 17%;
